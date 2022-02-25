@@ -2,9 +2,18 @@
     font-family: 'lato', sans-serif;
    
 }
+h1{
+    color: #000000;
+}
+#PIX {
+    padding: 19px;
+    justify-content: center;
+    display: flex;
+    
+}
 
 .bg-primary-color {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(0, 116, 6);
 }
 
 .bg-secondary-color {
@@ -16,7 +25,7 @@
 }
 
 .backgroundcolor {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
 }
 
 .backgroundcolor2 {
@@ -24,7 +33,7 @@
 }
 
 .primary-color {
-    color: #ffffff;
+    color: rgb(0, 87, 4);
 }
 
 .secondary-color {
@@ -56,7 +65,7 @@
   
 }
 .navbar-toggler {
-    color: rgb(255, 255, 255);
+    color: rgb(0, 87, 4);
 }
 
 #navbar-items .navbar-nav {
@@ -68,6 +77,7 @@
 }
 #navbar-link {
     margin-left: 20em;
+    margin-right: 50em;
 }
 
 #slider {
